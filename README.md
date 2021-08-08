@@ -1,1 +1,1 @@
-# Generalized-Linear-Models-GLM-and-ANOVA
+# Generalised linear models GLM and ANOVA with R
