@@ -1,6 +1,9 @@
 # Generalised linear models GLM and ANOVA with R
 
 ### This is my master project collaborated with my collegue. The project progresses 
+### First 10 samples from the raw dataset &#8595;&#8595;&#8595;
+![grafik](https://user-images.githubusercontent.com/61450446/129140139-0ce0ce1a-887a-45ed-bd20-4416a04562d2.png)
+
 ### Step by step workflow
 * Data understanding
 * Cleaning, missing value handling
@@ -25,6 +28,7 @@
      * ANOVA for the final model
      * In case of Signifance difference, Post Hoc test (Paiswise difference detection)
      * Plotting results & interpretation
-### The raw dataset look like this &#8595;&#8595;&#8595;
-![grafik](https://user-images.githubusercontent.com/61450446/129138231-070a141a-d743-4d4c-af6e-dc387db8d1f1.png)
+
+### Still I do not have the permission to release the dataset, once I have got the permission one use the dataset to recreate the work.
+
 
