@@ -1,5 +1,5 @@
 # Generalised linear models GLM and ANOVA with R
-
+## For the complete report please find the `report.pdf` file above.
 ### This is my master project collaborated with my collegue Frau Islam from FH-Kiel.
 ### First 10 samples from the raw dataset &#8595;&#8595;&#8595;
 ![grafik](https://user-images.githubusercontent.com/61450446/129140139-0ce0ce1a-887a-45ed-bd20-4416a04562d2.png)
