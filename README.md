@@ -5,7 +5,7 @@
 ### First 10 samples from the raw dataset &#8595;&#8595;&#8595;
 ![grafik](https://user-images.githubusercontent.com/61450446/129140139-0ce0ce1a-887a-45ed-bd20-4416a04562d2.png)
 
-### Step by step workflow
+### <ins>Step by step workflow</ins>
 * Data understanding
 * Cleaning, missing value handling
 * Transforming to their appropriate type (numeric or factor variables)
