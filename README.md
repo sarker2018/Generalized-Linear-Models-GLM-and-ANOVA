@@ -10,7 +10,7 @@
 * Cleaning, missing value handling
 * Transforming to their appropriate type (numeric or factor variables)
 * Here, we selected two different target variables, count & continous
-* <ins>For Count variable (`no_flo` number of flowers):<ins/>\
+* For Count variable (`no_flo` number of flowers):
     * Starting by Poisson regression approach
     * Checking all the count data regression assumptions including dsipersion test
     * Negative binomial approach & assumptions check again
