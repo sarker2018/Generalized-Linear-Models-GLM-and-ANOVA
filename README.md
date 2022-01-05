@@ -20,6 +20,8 @@
     * Performing ANOVA on the selected model
     * In case of Signifance difference, Post Hoc test (Paiswise difference detection)
     * Plotting results & interpretation
+
+
 * For Continous variable (`height` plant heght):
      * Checking all the linear assumptions such as probability density function (PDF), multicolinearity usw.
      * Starting with simple linear model & test statistics checking if the models has enough predicting power
